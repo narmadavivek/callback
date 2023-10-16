@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+    background-color: rgb(rgb rgb(200, 255, 0), rgb(185, 137, 169), rgb(161, 180, 77));
+    padding: 50px 50px 50px 50px;
+}
+
+.container{
+    height: 100px;
+    width:100px;
+    background-color: black;
+    width:50%;
+    border: 1px orange;
+  position:absolute;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 330px;
+}   
+#screen{
+    background-color: lightpink;
+
+}
+
